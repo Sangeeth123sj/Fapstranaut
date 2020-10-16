@@ -1,0 +1,15 @@
+{
+    "browser_action":
+    {
+        "default_popup": "index.html"
+    },
+    "icons":
+    {
+        "16": "images/icon.png",
+        "48": "images/icon.png"
+    },
+    "manifest_version": 2,
+    "name": "Fapstranaut",
+    "description":"helps to keep track of your no. of day's streak on no fap",
+    "version": "1.0.0"
+}
